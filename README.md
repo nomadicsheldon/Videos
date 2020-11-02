@@ -1,6 +1,8 @@
 # Videos
 **A Basic App using youtube API and mainly focusing on searching features and listing out results like youtube.**
 
+Main focus of this project is- callbacks, search, state management and Api call.
+
 ---
 
 ## Implementation description
